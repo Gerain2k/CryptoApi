@@ -1,0 +1,7 @@
+{
+  "esversion": 6,
+  "indent": 2,
+  "curly": true,
+  "latedef": true,
+  "forin": true
+}
